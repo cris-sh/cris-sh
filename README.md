@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Cristian</h1>
-<h3 align="center">A passionate backend developer from Colombia</h3>
+<h3 align="center">A full stack developer from Colombia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cris-sh&label=Profile%20views&color=000040&style=flat" alt="cris-sh" /> </p>
 
